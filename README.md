@@ -1,4 +1,4 @@
-[![MasterHead](https://s6.ezgif.com/tmp/ezgif-6-e0f6d74c5c.gif)
+
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
 
