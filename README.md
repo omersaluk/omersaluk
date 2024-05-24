@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **omer@saluk.com.tr**
 
-- 👨‍💻 All of my projects are available at [www.saluk.com.tr](www.saluk.com.tr)
+- 👨‍💻 All of my projects are available at **[http://www.saluk.com.tr/](http://www.saluk.com.tr/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
