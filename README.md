@@ -1,14 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
-<h3 align="center">A passionate mobile developer from Türkiye</h3>
+<h3 align="center">A passionate developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **ToDo App**
+- 🔭 I’m currently working on **My Personal Website**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & PHP**
 
 - 💬 Ask me about **Flutter - Java**
 
 - 📫 How to reach me **omer@saluk.com.tr**
+
+- 👨‍💻 All of my projects are available at [www.saluk.com.tr](www.saluk.com.tr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
